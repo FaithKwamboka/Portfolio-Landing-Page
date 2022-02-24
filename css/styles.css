@@ -13,4 +13,10 @@ h1 {
   ul {
     line-height: 40px;
   }
-.container {background-color: aquamarine;}
+
+.test-box {
+  border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: aquamarine;
+}
