@@ -13,4 +13,4 @@ This project doesn't possess any known bugs currently
 Incase of any issues, questions, ideas or concerns. Reach out to me via okongofaith3@gmail.com.
 ### License
 **
-Copyright (c) 2022 **Faith Kwamboka**
+Copyright (c) 2022 **Faith Kwamboka Okong'o**
