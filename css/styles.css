@@ -2,15 +2,30 @@ html {
   height: 100%;
   }
 
-  header{
+  * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
 
+  head
+
+  .header{
+    min-height: 100vh;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    opacity: 0;
   }
 
   body {
   background-image: linear-gradient(45deg, #ffffff, rgb(241, 89, 255));
   }
-  img{
-  float: left;
+
+  body.img{
+  float:right;
   }
   
   nav{
@@ -31,6 +46,13 @@ html {
   padding: 8px 12px;
   position: relative;
   }
+
+  .HOME {
+    background-image: -moz-linear-gradient("/images/Faith_Kwamboka_Passport_Pic_.png");
+    display: flex;
+    height: 100vh;
+  }
+
   h1 {
     color:black;
     text-align:left;
@@ -50,6 +72,12 @@ html {
     line-height: 40px;
   }
   
+  .text-box p{
+    margin: 10px 40px;
+    font-size: 20px;
+    color: black;
+  }
+
   .test-box {
   border: 2px solid rgb(0, 204, 255);
     padding: 6px;
