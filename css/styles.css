@@ -150,3 +150,25 @@ html {
   .interests li{
     list-style: none;
   }
+  .Projects{
+    background-color: black;
+    color: white;
+    display:grid;
+    align-content: center;
+  }
+  .Projects h2{
+    text-align: center;
+  }
+  .work{display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+  }
+  .lana{
+    border: 1px solid black;
+    height: 400px;
+    width: 30%;
+    line-height: 40px;
+    text-align: left;  
+  }
+
