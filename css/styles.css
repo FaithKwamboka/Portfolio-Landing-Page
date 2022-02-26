@@ -154,12 +154,12 @@ html {
     background-color: black;
     color: white;
     display:grid;
-    align-content: center;
   }
   .Projects h2{
     text-align: center;
   }
-  .work{display: flex;
+  .work{
+    display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     color: white;
@@ -171,4 +171,14 @@ html {
     line-height: 40px;
     text-align: left;  
   }
+  .Contact{
+    text-align: center;
+    height: 300px;
+  }
+  .contlinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  
 
