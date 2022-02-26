@@ -41,20 +41,22 @@ html {
     text-transform: uppercase;
     }
 
-    img{
+  .About img{
       float: right;
+      height: 100vh;
     }
 
   .About{
     width: 100%;
-    height: 70vh;
+    height: 100vh;
     background-color: black;
     padding-left: 10px;
     color: white;
   }
   .About p{
-    font-size: 40px;
+    font-size: 30px;
     color: white;
+    text-align: left;
   }
 
   .about{
