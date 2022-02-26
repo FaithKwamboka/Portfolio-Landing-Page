@@ -36,12 +36,6 @@ html {
   position: relative;
   }
 
-  .Home {
-    background-image: -moz-linear-gradient("/images/Faith_Kwamboka_Passport_Pic_.png");
-    display: flex;
-    height: 100vh;
-  }
-
   h1 {
     color:black;
     text-align:left;
