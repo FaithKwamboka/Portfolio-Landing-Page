@@ -148,6 +148,8 @@ html {
   .interests{
     text-align: center;
     font-size: larger;
+    height: 400px;
+    margin-top: 170px;
   }
   .interests li{
     list-style: none;
