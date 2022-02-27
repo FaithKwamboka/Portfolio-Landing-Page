@@ -149,7 +149,10 @@ html {
     text-align: center;
     font-size: larger;
     height: 400px;
-    margin-top: 170px;
+    margin-top: 150px;
+  }
+  .interests h2 {
+    margin-bottom: 50px;
   }
   .interests li{
     list-style: none;
