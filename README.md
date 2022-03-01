@@ -11,8 +11,7 @@ The portfolio outlines details about me. It begins by giving a small background 
 This project doesn't possess any known bugs currently
 ## Technologies Used
 This Project used the following technologies:
-HTML
-CSS
+HTML & CSS
 ## Support and contact details
 Incase of any issues, questions, ideas or concerns. Reach out to me via okongofaith3@gmail.com.
 ### License
